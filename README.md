@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Guilherme Moraes 👋
 
 
-- 🔭 Hoje trabalho na área de dados
-- 🌱 Estou atualmente me aperfeiçoando em Python e em SQL, focando em trabalhar com ferramentas de Big Data
-- 📫 Contate-me no e-mail: guilhermevsmoraes@outlook.com
-- 😄 Pronomes: ele/dele
+- 🔭 Atualmente, atuo no campo dos dados.
+- 🌱 Estou me aperfeiçoando em Python e em SQL, focando em trabalhar com ferramentas de Big Data
+- ✉️ Se quiser bater papo, meu e-mail tá aberto: guilhermevsmoraes@outlook.com.
 
 ##
 
