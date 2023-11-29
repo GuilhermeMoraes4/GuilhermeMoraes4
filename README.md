@@ -5,12 +5,6 @@
 - 🌱 Estou me aperfeiçoando em Python e em SQL, focando em trabalhar com ferramentas de Big Data
 - ✉️ Se quiser bater papo, meu e-mail tá aberto: guilhermevsmoraes@outlook.com.
 
-##
-
-<div>
-  <a href="https://github.com/GuilhermeMoraes4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMoraes4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</div>
 
 ##
 
