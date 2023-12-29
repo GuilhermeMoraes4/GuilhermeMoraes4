@@ -1,8 +1,10 @@
 ### Olá! Eu sou o Guilherme Moraes 👋
 
 
-- 🔭 Atualmente, atuo no campo dos dados.
-- 🌱 Estou me aperfeiçoando em Python e em SQL, focando em trabalhar com ferramentas de Big Data
+- 🔭 Profissional especializado em Dados e B.I. Com foco na
+implementação da cultura data-driven e
+entusiasta de inteligência artificial.
+
 - ✉️ Se quiser bater papo, meu e-mail tá aberto: guilhermevsmoraes@outlook.com.
 
 
