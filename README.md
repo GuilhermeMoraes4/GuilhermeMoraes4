@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Guilherme Moraes 👋
 
 
-- 🔭 Profissional especializado em Dados e B.I. Com foco na
-implementação da cultura data-driven e
-entusiasta de inteligência artificial.
+- 🔭 Profissional da área de Dados e B.I. Atualmente estou focado em me aprimorar em cloud, spark, e apache.
 
 - ✉️ Se quiser bater papo, meu e-mail tá aberto: guilhermevsmoraes@outlook.com.
 
@@ -15,6 +13,7 @@ entusiasta de inteligência artificial.
  <img align="center" alt="Gui-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Gui-SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
  <img align="center" alt="Gui-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ <img align="center" alt="Gui-GCP" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg">
 
  ##
 
