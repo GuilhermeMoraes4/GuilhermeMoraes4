@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Guilherme Moraes 👋
 
 
-- 🔭 Profissional da área de Dados e B.I. Atualmente estou focado em me aprimorar em cloud, spark, e apache.
+- 🔭 Profissional da área de Dados e B.I. Atualmente estou focado em me aprimorar em cloud, spark, e apache. Gosto de aprender tudo um pouco na T.I. Esse espaço conta com alguns projetos que achei bacana no meio dos estudos. 
 
 - ✉️ Se quiser bater papo, meu e-mail tá aberto: guilhermevsmoraes@outlook.com.
 
@@ -14,6 +14,9 @@
  <img align="center" alt="Gui-TF" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original.svg">
  <img align="center" alt="Gui-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="center" alt="Gui-GCP" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg">
+ <img align="center" alt="Gui-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
+ <img align="center" alt="Gui-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg">
+ <img align="center" alt="Gui-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">
 
  ##
 
