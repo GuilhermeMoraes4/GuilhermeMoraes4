@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-- 🔭 Profissional da área de Dados e B.I. Atualmente estou focado em me aprimorar em cloud, spark, e apache. Gosto de aprender tudo um pouco na T.I. Esse espaço conta com alguns projetos que achei bacana no meio dos estudos. 
+- 🔭 Profissional da área de Dados e Desenvolvimento Back-end. Compartilho nesse espaço alguns projetos bacanas que desenvolvi durante os meus estudos. 
 
 - ✉️ Se quiser bater papo, meu e-mail tá aberto: guilhermevsmoraes@outlook.com.
 
