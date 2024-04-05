@@ -1,4 +1,5 @@
-### Olá! Eu sou o Guilherme Moraes 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+Moraes!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+
 
 
 - 🔭 Profissional da área de Dados e B.I. Atualmente estou focado em me aprimorar em cloud, spark, e apache. Gosto de aprender tudo um pouco na T.I. Esse espaço conta com alguns projetos que achei bacana no meio dos estudos. 
@@ -31,6 +32,8 @@
  <a href="https://wa.me/5551995778981" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
  <a href = "mailto:guilhermevsmoraes4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/guilherme-moraes040500/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+##
 
  <h3>GitHub Stats</h3>
 
