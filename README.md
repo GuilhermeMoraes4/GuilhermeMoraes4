@@ -1,4 +1,3 @@
-<img align="right" alt="" height="300px" src="./me.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
@@ -38,8 +37,8 @@
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeMoraes4&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=007BFF&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=0056B3&count_private=true)](https://github.com/mari4souza/github-readme-stats)
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeMoraes4/GuilhermeMoraes4/output/github-contribution-grid-snake-dark.svg">
+ <!-- <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeMoraes4/GuilhermeMoraes4/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeMoraes4/GuilhermeMoraes4/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuilhermeMoraes4/GuilhermeMoraes4/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
