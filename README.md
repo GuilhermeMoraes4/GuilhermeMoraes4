@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Guilherme Moraes, a Senior Data Analyst from Brazil, focused on building data-driven solutions.<br><br>- 🔭 I’m working as a Senior Data Analyst, creating robust ETL pipelines and generating business insights.<br>- 🛠️ My main tools are Python (PySpark), SQL, Power BI, Azure, AWS and Apache Airflow.</p>
+<p align="left">I'm Guilherme Moraes, a Senior Data Engineer from Brazil, focused on building data-driven solutions.<br><br>- 🔭 I’m working as a Senior Data Engineer, creating robust ETL pipelines and generating business insights.<br>- 🛠️ My main tools are Python (PySpark), SQL, Power BI, Azure, GCP and Apache Airflow.</p>
 
 ###
 
@@ -48,9 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
