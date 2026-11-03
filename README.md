@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Guilherme Moraes, a Senior Data Engineer from Brazil, focused on building data-driven solutions.<br><br>- 🔭 I’m working as a Senior Data Engineer, creating robust ETL pipelines and generating business insights.<br>- 🛠️ My main tools are Python (PySpark), SQL, Power BI, Azure, GCP and Apache Airflow.</p>
+<p align="left">I'm Guilherme Moraes, a Staff Data Engineer from Brazil, focused on building data-driven solutions.<br><br>- 🔭 I’m working as a Senior Data Engineer, creating robust ETL pipelines and generating business insights.<br>- 🛠️ My main tools are Python (PySpark), SQL, Power BI, Azure, GCP and Apache Airflow.</p>
 
 ###
 
