@@ -1,68 +1,74 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
-
-###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-moraes040500/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:guilhermevsmoraes@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
+  <a href="https://datawithguilherme.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Blog-Data%20with%20Guilherme-0f5c63?style=for-the-badge" height="25" alt="blog" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-silverio-moraes/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" /></a>
+  <a href="https://www.instagram.com/datawithguilherme" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram" /></a>
+  <a href="mailto:guilhermevsmoraes@outlook.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email" /></a>
 </div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeMoraes4.GuilhermeMoraes4&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeMoraes4.GuilhermeMoraes4&" />
 </div>
-
-###
 
 <h1 align="center">Hey there 👋</h1>
 
-###
+### 👨‍💻 About me
 
-<h3 align="left">👩‍💻  About Me</h3>
+I'm Guilherme Moraes, a **Staff Data Engineer** from Brazil working as an **AI Data Engineer**: I build
+the context layer that LLMs and agents consume.
 
-###
+- 🏗️ Lakehouse platforms on **Databricks + Delta Lake + Unity Catalog**, across **Azure** and **GCP**: medallion pipelines, idempotent MERGEs, FinOps and data quality as part of the pipeline, not an afterthought.
+- 🧠 Data for AI: **RAG** pipelines (chunking, hybrid BM25 + vector search, reranking, contextual retrieval), **evals** before optimization (recall@k, MRR, NDCG, LLM-as-judge, RAGAS), governed metrics and **MCP** tools so agents query semantics instead of raw tables.
+- 🤖 Agent engineering: workflows before agents, deterministic verifiers in the loop, **LangGraph**, harness and context engineering.
+- ✍️ I write in Portuguese about data and AI at **[Data with Guilherme](https://datawithguilherme.pages.dev)**: papers and talks read by someone who owns the data, always crediting the sources.
 
-<p align="left">I'm Guilherme Moraes, a Staff Data Engineer from Brazil, focused on building data-driven solutions.<br><br>- 🔭 I’m working as a Senior Data Engineer, creating robust ETL pipelines and generating business insights.<br>- 🛠️ My main tools are Python (PySpark), SQL, Power BI, Azure, GCP and Apache Airflow.</p>
+### 🛠 Stack
 
-###
+**Data platform**
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Unity%20Catalog-1B3139?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/SODA-Data%20Quality-6B4FBB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black" />
+</p>
 
-###
+**AI / agents**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/googlecloud/googlecloud-original.svg" height="40" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic%20SDK-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Search-RAG-0f5c63?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAGAS-Evals-555555?style=flat-square" />
+</p>
 
-###
+**Cloud & DevOps**
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</p>
 
-###
+### 🔥 My stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuilhermeMoraes4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=GuilhermeMoraes4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
-###
