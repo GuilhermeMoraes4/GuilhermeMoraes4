@@ -17,8 +17,8 @@
 
 ### 👨‍💻 About me
 
-I'm Guilherme Moraes, a **Staff Data Engineer** from Brazil working as an **AI Data Engineer**: I build
-the context layer that LLMs and agents consume.
+I'm Guilherme, a **Staff Data Engineer** from Brazil. These days most of my work is on the data side
+of AI: making sure the data behind RAG and agents is clean, governed and actually useful.
 
 - 🏗️ Lakehouse platforms on **Databricks + Delta Lake + Unity Catalog**, across **Azure** and **GCP**: medallion pipelines, idempotent MERGEs, FinOps and data quality as part of the pipeline, not an afterthought.
 - 🧠 Data for AI: **RAG** pipelines (chunking, hybrid BM25 + vector search, reranking, contextual retrieval), **evals** before optimization (recall@k, MRR, NDCG, LLM-as-judge, RAGAS), governed metrics and **MCP** tools so agents query semantics instead of raw tables.
@@ -67,8 +67,10 @@ the context layer that LLMs and agents consume.
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 </p>
 
-### 🔥 My stats
+### 🐍 Contributions
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuilhermeMoraes4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeMoraes4/GuilhermeMoraes4/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeMoraes4/GuilhermeMoraes4/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution grid snake" src="https://raw.githubusercontent.com/GuilhermeMoraes4/GuilhermeMoraes4/output/github-contribution-grid-snake.svg" />
+</picture>
