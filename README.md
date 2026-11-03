@@ -23,7 +23,7 @@ of AI: making sure the data behind RAG and agents is clean, governed and actuall
 - 🏗️ Lakehouse platforms on **Databricks + Delta Lake + Unity Catalog**, across **Azure** and **GCP**: medallion pipelines, idempotent MERGEs, FinOps and data quality as part of the pipeline, not an afterthought.
 - 🧠 Data for AI: **RAG** pipelines (chunking, hybrid BM25 + vector search, reranking, contextual retrieval), **evals** before optimization (recall@k, MRR, NDCG, LLM-as-judge, RAGAS), governed metrics and **MCP** tools so agents query semantics instead of raw tables.
 - 🤖 Agent engineering: workflows before agents, deterministic verifiers in the loop, **LangGraph**, harness and context engineering.
-- ✍️ I write in Portuguese about data and AI at **[Data with Guilherme](https://datawithguilherme.pages.dev)**: papers and talks read by someone who owns the data, always crediting the sources.
+- ✍️ I write in Portuguese about data and AI at **[Data with Guilherme](https://datawithguilherme.pages.dev)**: papers and talks read by someone who owns the data.
 
 ### 🛠 Stack
 
